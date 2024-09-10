@@ -78,3 +78,8 @@ console.log(mensagem);
 # Condicionais 
 
 - [x] switch
+
+## Modulos em Node.js
+
+Importando  os modulos (require, CommonJS)
+Biblioteca inquerer para criar prompts interativo
