@@ -71,3 +71,6 @@ console.log(mensagem);
  - [x] criar , passar argumentos
  - [x] executar
  - [x] arrow function / named function
+
+## Estrutura de Repetição 
+ - [x] - While  
