@@ -26,6 +26,8 @@ Apresentar os dados
 let metas = [ "Anderson da Luz" ,  "Vanessa Angelica"]
 console.log(metas[1] + " " + metas[0])
 ```
+- [x] Metodos de array : push, [find, forEach, filte]: HOF (Higher Order Functions)
+- [x] Umma lista  que contem qualquer tipo  de dados
 
 ## Objeto de Array 
 ``` javascript
@@ -52,6 +54,7 @@ Constantes
 - {} Escopo de função
 - Operadores de contatenação: +
 - Operadores de comparação: ==  != <= >= < > (sempre returna um booleano)
+- Spread operator: ...
 
 ```javascript
 // JavaScript
