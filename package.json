@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "inquirer": "^10.2.2"
+    "inquirer": "^10.2.2",
+    "nlw_nodejava": "file:"
   }
 }

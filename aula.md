@@ -1,5 +1,12 @@
-## Peças de uma Linguagem
+# Linguagem de Programação 
 
+Maneiras de dar instruções ao computador.
+Como lego, você irá utilizar peças para criar algoritimos ou seja para resolver problemas
+
+    ** Algoritimos**: Sequencia  de passos da logica  e finita para resolução de um problema
+
+## Peças de uma Linguagem
+- Comentarios
 - Declaração de variaveis (const let)
 - Operações (atributos, concatenação, matematicos, logicos)
 - Tipodes de dados(String, number, boolean)
@@ -41,8 +48,10 @@ Constantes
 - Boolean - true e false
 
 ## Operadores
-- = Operador de  atribuir valores
+- Operador de  atribuir valores: =
 - {} Escopo de função
+- Operadores de contatenação: +
+- Operadores de comparação: ==  != <= >= < > (sempre returna um booleano)
 
 ```javascript
 // JavaScript
@@ -78,8 +87,14 @@ console.log(mensagem);
 # Condicionais 
 
 - [x] switch
+- [x] if e else (controle do fluxo  )
 
 ## Modulos em Node.js
 
-Importando  os modulos (require, CommonJS)
-Biblioteca inquerer para criar prompts interativo
+- [x] Importando  os modulos (require, CommonJS)
+- [x] Biblioteca inquerer para criar prompts interativo
+
+## Programação assicronas e Promises
+
+- [x] Uso de funções assicronas (async/await)
+- [x] 
